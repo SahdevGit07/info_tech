@@ -9,6 +9,8 @@ class HomeBodyScreen extends StatefulWidget {
 }
 
 class _HomeBodyScreenState extends State<HomeBodyScreen> {
+  int demo =0;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
